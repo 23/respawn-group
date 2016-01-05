@@ -6,7 +6,7 @@
   "author": "Mathias Buus <mathiasbuus@gmail.com>",
   "dependencies": {
     "after-all": "^1.0.0",
-    "respawn": "^1.0.0",
+    "respawn": "23/respawn",
     "xtend": "^4.0.0"
   },
   "keywords": [
